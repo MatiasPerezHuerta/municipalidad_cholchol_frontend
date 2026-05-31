@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Logo referencial Municipalidad de Cholchol</title>
+  <desc id="desc">Emblema circular referencial usado para el rediseño académico.</desc>
+  <circle cx="60" cy="60" r="56" fill="#0b4b5a"/>
+  <circle cx="60" cy="60" r="45" fill="#fff"/>
+  <path d="M25 72c15-13 25-19 36-19 12 0 21 7 34 19" fill="none" stroke="#2f7d32" stroke-width="7" stroke-linecap="round"/>
+  <path d="M38 53c7-18 18-27 31-30 4 13 1 24-8 34" fill="none" stroke="#0b4b5a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 74h24" stroke="#f0a202" stroke-width="7" stroke-linecap="round"/>
+  <text x="60" y="101" text-anchor="middle" font-size="13" font-family="Arial" font-weight="700" fill="#0b4b5a">Cholchol</text>
+</svg>
