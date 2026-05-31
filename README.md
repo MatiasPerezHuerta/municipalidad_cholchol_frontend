@@ -69,6 +69,10 @@ evau2_cholchol_frontend/
 |   `-- TestimonialsCarousel.jsx
 |-- docs/
 |   |-- buenas-practicas.md
+|   |-- cms-simulado.md
+|   |-- control-versiones.md
+|   |-- evidencia-api.md
+|   |-- pruebas-usabilidad.md
 |   `-- retrospectiva.md
 |-- lib/
 |   `-- site-data.js
@@ -101,6 +105,15 @@ POST /api/contact
 `/api/site-content` entrega datos centralizados de servicios, noticias, testimonios, preguntas frecuentes e indicadores.
 
 `/api/contact` valida el formulario del lado servidor y simula el registro seguro de una solicitud.
+
+## Documentacion de respaldo
+
+- [Buenas practicas](docs/buenas-practicas.md)
+- [CMS simulado](docs/cms-simulado.md)
+- [Control de versiones](docs/control-versiones.md)
+- [Evidencia API](docs/evidencia-api.md)
+- [Pruebas de usabilidad y accesibilidad](docs/pruebas-usabilidad.md)
+- [Retrospectiva](docs/retrospectiva.md)
 
 ## Ejemplo de componente reutilizable
 
