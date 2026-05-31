@@ -2,6 +2,11 @@
 
 Proyecto frontend academico para redisenar la experiencia digital de la Municipalidad de Cholchol.
 
+## Datos de entrega
+
+- Grupo: `Matias_Perez`
+- Repositorio GitHub: [MatiasPerezHuerta/municipalidad_cholchol_frontend](https://github.com/MatiasPerezHuerta/municipalidad_cholchol_frontend)
+
 El repositorio conserva la evolucion del mismo proyecto:
 
 - `eva2-final`: version HTML, CSS, JavaScript, Bootstrap y Web Components.
